@@ -1,4 +1,4 @@
 // Delete by match
 db.school.deleteMany(
-    { name: "ALX school" }
+    { name: "ALX School" }
 )
